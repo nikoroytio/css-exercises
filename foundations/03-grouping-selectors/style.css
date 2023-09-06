@@ -1,0 +1,17 @@
+/* styles.css */
+
+.musta, .keltainen {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif ;
+
+}
+
+.musta{
+    background-color: black;
+    color: white;
+}
+
+.keltainen{
+    background-color: yellow;
+}
+
